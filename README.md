@@ -1,4 +1,4 @@
-# FollowingCyborgs-2019
+# Following-Cyborgs-2019
 A simple game using opengl
 
 키보드 명령어 :
