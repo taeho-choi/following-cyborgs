@@ -13,7 +13,7 @@
 
 ### 시연 영상
 
-[KakaoTalk_20220430_163520172.mp4](https://youtu.be/PquoU1xXTIw)
+[https://youtu.be/PquoU1xXTIw](https://youtu.be/PquoU1xXTIw)
 
 ---
 
