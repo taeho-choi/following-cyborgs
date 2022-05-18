@@ -12,7 +12,7 @@
 
 ### 시연 영상
 
-[https://youtu.be/PquoU1xXTIw](https://youtu.be/PquoU1xXTIw)
+https://youtu.be/JlPHUMeKaAU
 
 # 구현 내용
 
